@@ -9,6 +9,10 @@ This is an example to show different parts
 of Git repository and various commands
 using a web project.
 
+As stated above, the main purpose is to 
+provide simple examples for Git training 
+
+demos.
 ## Purpose
 
 ## Deployment
