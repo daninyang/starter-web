@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel Inyang Git Master  @daninyang
 
 # THANKS
 
